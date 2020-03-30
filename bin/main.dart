@@ -1,7 +1,7 @@
 
 
 main(List<String> arguments) {
-  List people = ['Bryan', 'Heather', 'Chris'];
+  List<String> people = ['Bryan', 'Heather', 'Chris'];
 
   print(people);
 
